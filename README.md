@@ -1,4 +1,4 @@
-# informatics-in-emerging-and-reemerging-infectious-disease
+# Informatics-in-emerging-and-reemerging-infectious-disease
 ### Research Question
 
 The primary question guiding this research was: *How can informatics be effectively utilized to improve the detection, monitoring, and response to emerging and re-emerging infectious diseases?* This question was driven by the increasing global challenge posed by infectious diseases such as Ebola, Zika virus, tuberculosis, and measles, which either emerge anew or resurge in populations.
