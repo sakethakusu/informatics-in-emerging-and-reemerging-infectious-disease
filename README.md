@@ -30,7 +30,3 @@ Challenges such as data quality, integration, privacy, and the complexity of dis
 ### Conclusion
 
 This project underscored the transformative potential of informatics in advancing our capacity to combat emerging and re-emerging infectious diseases. By leveraging data-driven approaches and technological innovations, we can achieve a more resilient and effective public health response system.
-
----
-
-Feel free to customize this README with any additional details or specific contributions you made to the project.
